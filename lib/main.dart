@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_ui_challenge/screens/home_screen.dart';
-import 'package:flutter_ui_challenge/screens/profile_screen.dart';
+import 'package:flutter_ui_challenge/ui/home_screen.dart';
 
 import 'configs/routes.dart';
 
